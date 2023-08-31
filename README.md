@@ -1,1 +1,1 @@
-# CodeClauseInternship_Raghav_calculator
+# CodeClauseInternship_calculator
